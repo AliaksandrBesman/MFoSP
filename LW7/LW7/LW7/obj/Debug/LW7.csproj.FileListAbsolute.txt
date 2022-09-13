@@ -1,0 +1,7 @@
+E:\University\MOPS\LWs\LW7\LW7\LW7\bin\Debug\LW7.exe.config
+E:\University\MOPS\LWs\LW7\LW7\LW7\bin\Debug\LW7.exe
+E:\University\MOPS\LWs\LW7\LW7\LW7\bin\Debug\LW7.pdb
+E:\University\MOPS\LWs\LW7\LW7\LW7\obj\Debug\LW7.csprojAssemblyReference.cache
+E:\University\MOPS\LWs\LW7\LW7\LW7\obj\Debug\LW7.csproj.CoreCompileInputs.cache
+E:\University\MOPS\LWs\LW7\LW7\LW7\obj\Debug\LW7.exe
+E:\University\MOPS\LWs\LW7\LW7\LW7\obj\Debug\LW7.pdb
